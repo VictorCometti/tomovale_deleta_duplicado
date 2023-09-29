@@ -1,9 +1,9 @@
 {
     "database": {
-      "username" : "dicomvixweb",
-      "password" : "FY$LSJLb" ,
-      "hostname" : "localhost",
-      "port" : "9090",
-      "database_name" : "clinux_tomovale"
+      "username" : "",
+      "password" : "" ,
+      "hostname" : "",
+      "port" : "",
+      "database_name" : ""
     }
   }
